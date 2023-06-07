@@ -1,0 +1,54 @@
+﻿<Window x:Class="WinCS.CalcWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WinCS.CalcWPF"
+        mc:Ignorable="d"
+        Title="Calculator" Height="460" Width="400" WindowStyle="ThreeDBorderWindow">
+    <Grid x:Name="Buttons" Margin="0,0,0,0" Background="#FF424141">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100*"/>
+            <ColumnDefinition Width="100*"/>
+            <ColumnDefinition Width="100*"/>
+            <ColumnDefinition Width="100*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="60*"/>
+            <RowDefinition Height="60*"/>
+            <RowDefinition Height="60*"/>
+            <RowDefinition Height="60*"/>
+            <RowDefinition Height="60*"/>
+            <RowDefinition Height="60*"/>
+        </Grid.RowDefinitions>
+
+        <TextBox x:Name="textLabel" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" FontSize="22" FontFamily="Calibri" FontWeight="Bold" Padding="20,0,20,0"/>
+        
+        <Button Grid.Row="1" Grid.Column="0" FontSize="22" FontFamily="Calibri" FontWeight="Bold">(</Button>
+        <Button Grid.Row="1" Grid.Column="1" FontSize="22" FontFamily="Calibri" FontWeight="Bold">)</Button>
+        <Button Grid.Row="1" Grid.Column="2" FontSize="22" FontFamily="Calibri" FontWeight="Bold">Clear</Button>
+        <Button Grid.Row="1" Grid.Column="3" FontSize="22" FontFamily="Calibri" FontWeight="Bold">Delete</Button>
+        <Button Grid.Row="2" Grid.Column="0" FontSize="22" FontFamily="Calibri" FontWeight="Bold">1</Button>
+        <Button Grid.Row="2" Grid.Column="1" FontSize="22" FontFamily="Calibri" FontWeight="Bold">2</Button>
+        <Button Grid.Row="2" Grid.Column="2" FontSize="22" FontFamily="Calibri" FontWeight="Bold">3</Button>
+        <Button Grid.Row="2" Grid.Column="3" FontSize="22" FontFamily="Calibri" FontWeight="Bold">+</Button>
+        <Button Grid.Row="3" Grid.Column="0" FontSize="22" FontFamily="Calibri" FontWeight="Bold">4</Button>
+        <Button Grid.Row="3" Grid.Column="1" FontSize="22" FontFamily="Calibri" FontWeight="Bold">5</Button>
+        <Button Grid.Row="3" Grid.Column="2" FontSize="22" FontFamily="Calibri" FontWeight="Bold">6</Button>
+        <Button Grid.Row="3" Grid.Column="3" FontSize="22" FontFamily="Calibri" FontWeight="Bold">-</Button>
+        <Button Grid.Row="4" Grid.Column="0" FontSize="22" FontFamily="Calibri" FontWeight="Bold">7</Button>
+        <Button Grid.Row="4" Grid.Column="1" FontSize="22" FontFamily="Calibri" FontWeight="Bold">8</Button>
+        <Button Grid.Row="4" Grid.Column="2" FontSize="22" FontFamily="Calibri" FontWeight="Bold">9</Button>
+        <Button Grid.Row="4" Grid.Column="3" FontSize="22" FontFamily="Calibri" FontWeight="Bold">*</Button>
+        <Button Grid.Row="5" Grid.Column="0" FontSize="22" FontFamily="Calibri" FontWeight="Bold">.</Button>
+        <Button Grid.Row="5" Grid.Column="1" FontSize="22" FontFamily="Calibri" FontWeight="Bold">0</Button>
+        <Button Grid.Row="5" Grid.Column="2" FontSize="22" FontFamily="Calibri" FontWeight="Bold">Double x</Button>
+        <Button Grid.Row="5" Grid.Column="3" FontSize="22" FontFamily="Calibri" FontWeight="Bold">/</Button>
+        <Button Grid.Row="6" Grid.Column="0" FontSize="22" FontFamily="Calibri" FontWeight="Bold">1/x</Button>
+        <Button Grid.Row="6" Grid.Column="1" FontSize="22" FontFamily="Calibri" FontWeight="Bold">Pi</Button>
+        <Button Grid.Row="6" Grid.Column="2" FontSize="22" FontFamily="Calibri" FontWeight="Bold">Sqr.rt x</Button>
+        <Button Grid.Row="6" Grid.Column="3" FontSize="22" FontFamily="Calibri" FontWeight="Bold">=</Button>
+
+    </Grid>
+</Window>

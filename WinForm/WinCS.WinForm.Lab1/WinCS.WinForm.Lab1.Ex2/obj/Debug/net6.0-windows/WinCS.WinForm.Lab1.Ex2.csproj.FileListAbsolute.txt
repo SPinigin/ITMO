@@ -1,0 +1,17 @@
+D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\WinForm\WinCS.WinForm.Lab1\WinCS.WinForm.Lab1.Ex2\obj\Debug\net6.0-windows\WinCS.WinForm.Lab1.Ex2.csproj.AssemblyReference.cache
+D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\WinForm\WinCS.WinForm.Lab1\WinCS.WinForm.Lab1.Ex2\obj\Debug\net6.0-windows\WinCS.WinForm.Lab1.Ex2.csproj.GenerateResource.cache
+D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\WinForm\WinCS.WinForm.Lab1\WinCS.WinForm.Lab1.Ex2\obj\Debug\net6.0-windows\WinCS.WinForm.Lab1.Ex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\WinForm\WinCS.WinForm.Lab1\WinCS.WinForm.Lab1.Ex2\obj\Debug\net6.0-windows\WinCS.WinForm.Lab1.Ex2.AssemblyInfoInputs.cache
+D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\WinForm\WinCS.WinForm.Lab1\WinCS.WinForm.Lab1.Ex2\obj\Debug\net6.0-windows\WinCS.WinForm.Lab1.Ex2.AssemblyInfo.cs
+D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\WinForm\WinCS.WinForm.Lab1\WinCS.WinForm.Lab1.Ex2\obj\Debug\net6.0-windows\WinCS.WinForm.Lab1.Ex2.csproj.CoreCompileInputs.cache
+D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\WinForm\WinCS.WinForm.Lab1\WinCS.WinForm.Lab1.Ex2\bin\Debug\net6.0-windows\WinCS.WinForm.Lab1.Ex2.exe
+D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\WinForm\WinCS.WinForm.Lab1\WinCS.WinForm.Lab1.Ex2\bin\Debug\net6.0-windows\WinCS.WinForm.Lab1.Ex2.deps.json
+D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\WinForm\WinCS.WinForm.Lab1\WinCS.WinForm.Lab1.Ex2\bin\Debug\net6.0-windows\WinCS.WinForm.Lab1.Ex2.runtimeconfig.json
+D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\WinForm\WinCS.WinForm.Lab1\WinCS.WinForm.Lab1.Ex2\bin\Debug\net6.0-windows\WinCS.WinForm.Lab1.Ex2.dll
+D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\WinForm\WinCS.WinForm.Lab1\WinCS.WinForm.Lab1.Ex2\bin\Debug\net6.0-windows\WinCS.WinForm.Lab1.Ex2.pdb
+D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\WinForm\WinCS.WinForm.Lab1\WinCS.WinForm.Lab1.Ex2\obj\Debug\net6.0-windows\WinCS.WinForm.Lab1.Ex2.Form1.resources
+D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\WinForm\WinCS.WinForm.Lab1\WinCS.WinForm.Lab1.Ex2\obj\Debug\net6.0-windows\WinCS.WinForm.Lab1.Ex2.dll
+D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\WinForm\WinCS.WinForm.Lab1\WinCS.WinForm.Lab1.Ex2\obj\Debug\net6.0-windows\refint\WinCS.WinForm.Lab1.Ex2.dll
+D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\WinForm\WinCS.WinForm.Lab1\WinCS.WinForm.Lab1.Ex2\obj\Debug\net6.0-windows\WinCS.WinForm.Lab1.Ex2.pdb
+D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\WinForm\WinCS.WinForm.Lab1\WinCS.WinForm.Lab1.Ex2\obj\Debug\net6.0-windows\WinCS.WinForm.Lab1.Ex2.genruntimeconfig.cache
+D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\WinForm\WinCS.WinForm.Lab1\WinCS.WinForm.Lab1.Ex2\obj\Debug\net6.0-windows\ref\WinCS.WinForm.Lab1.Ex2.dll

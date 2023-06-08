@@ -1,0 +1,7 @@
+D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\WinForm\WinCS.WinForm.Lab1\WinCS.WinForm.Lab1.Ex3\obj\Debug\net6.0-windows\WinCS.WinForm.Lab1.Ex3.csproj.AssemblyReference.cache
+D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\WinForm\WinCS.WinForm.Lab1\WinCS.WinForm.Lab1.Ex3\obj\Debug\net6.0-windows\WinCS.WinForm.Lab1.Ex3.InheritedForn.resources
+D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\WinForm\WinCS.WinForm.Lab1\WinCS.WinForm.Lab1.Ex3\obj\Debug\net6.0-windows\WinCS.WinForm.Lab1.Ex3.csproj.GenerateResource.cache
+D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\WinForm\WinCS.WinForm.Lab1\WinCS.WinForm.Lab1.Ex3\obj\Debug\net6.0-windows\WinCS.WinForm.Lab1.Ex3.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\WinForm\WinCS.WinForm.Lab1\WinCS.WinForm.Lab1.Ex3\obj\Debug\net6.0-windows\WinCS.WinForm.Lab1.Ex3.AssemblyInfoInputs.cache
+D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\WinForm\WinCS.WinForm.Lab1\WinCS.WinForm.Lab1.Ex3\obj\Debug\net6.0-windows\WinCS.WinForm.Lab1.Ex3.AssemblyInfo.cs
+D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\WinForm\WinCS.WinForm.Lab1\WinCS.WinForm.Lab1.Ex3\obj\Debug\net6.0-windows\WinCS.WinForm.Lab1.Ex3.csproj.CoreCompileInputs.cache

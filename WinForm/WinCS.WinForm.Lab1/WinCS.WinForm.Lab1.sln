@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinCS.WinForm.Lab1.Ex4", "W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinCS.WinForm.Lab1.Ex5_1", "WinCS.WinForm.Lab1.Ex5_1\WinCS.WinForm.Lab1.Ex5_1.csproj", "{A0888817-418A-4ABD-B2B0-22D09D4388F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinCS.WinForm.Lab1.Ex5_2", "WinCS.WinForm.Lab1.Ex5_2\WinCS.WinForm.Lab1.Ex5_2.csproj", "{995CE75B-CBD2-4619-9B73-BF772BA1E063}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A0888817-418A-4ABD-B2B0-22D09D4388F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0888817-418A-4ABD-B2B0-22D09D4388F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0888817-418A-4ABD-B2B0-22D09D4388F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{995CE75B-CBD2-4619-9B73-BF772BA1E063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995CE75B-CBD2-4619-9B73-BF772BA1E063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995CE75B-CBD2-4619-9B73-BF772BA1E063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995CE75B-CBD2-4619-9B73-BF772BA1E063}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

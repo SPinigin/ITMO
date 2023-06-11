@@ -1,6 +1,6 @@
 ﻿namespace WinCS.WinForm.Lab1.Ex2
 {
-    partial class Form1
+    partial class MainForm
     {
         /// <summary>
         /// Обязательная переменная конструктора.

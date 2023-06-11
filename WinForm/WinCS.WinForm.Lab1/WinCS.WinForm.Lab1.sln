@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinCS.WinForm.Lab1.Ex1", "WinCS.WinForm.Lab1.Ex1\WinCS.WinForm.Lab1.Ex1.csproj", "{5614499F-E715-4E91-800D-4DA6BC9B754A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinCS.WinForm.Lab1.Ex1", "WinCS.WinForm.Lab1.Ex1\WinCS.WinForm.Lab1.Ex1.csproj", "{5614499F-E715-4E91-800D-4DA6BC9B754A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinCS.WinForm.Lab1.Ex2", "WinCS.WinForm.Lab1.Ex2\WinCS.WinForm.Lab1.Ex2.csproj", "{CB4C983F-166C-40DD-A7E2-B9D050924742}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinCS.WinForm.Lab1.Ex2", "WinCS.WinForm.Lab1.Ex2\WinCS.WinForm.Lab1.Ex2.csproj", "{CB4C983F-166C-40DD-A7E2-B9D050924742}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinCS.WinForm.Lab1.Ex3", "WinCS.WinForm.Lab1.Ex3\WinCS.WinForm.Lab1.Ex3.csproj", "{7EDD1DBC-23A6-45EA-97E8-0EF9FE5C41BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinCS.WinForm.Lab1.Ex3", "WinCS.WinForm.Lab1.Ex3\WinCS.WinForm.Lab1.Ex3.csproj", "{7EDD1DBC-23A6-45EA-97E8-0EF9FE5C41BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinCS.WinForm.Lab1.Ex4", "WinCS.WinForm.Lab1.Ex4\WinCS.WinForm.Lab1.Ex4.csproj", "{B22B1F37-A78B-44D1-B011-58B828FFA03F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinCS.WinForm.Lab1.Ex5_1", "WinCS.WinForm.Lab1.Ex5_1\WinCS.WinForm.Lab1.Ex5_1.csproj", "{A0888817-418A-4ABD-B2B0-22D09D4388F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{7EDD1DBC-23A6-45EA-97E8-0EF9FE5C41BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EDD1DBC-23A6-45EA-97E8-0EF9FE5C41BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EDD1DBC-23A6-45EA-97E8-0EF9FE5C41BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B22B1F37-A78B-44D1-B011-58B828FFA03F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22B1F37-A78B-44D1-B011-58B828FFA03F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22B1F37-A78B-44D1-B011-58B828FFA03F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22B1F37-A78B-44D1-B011-58B828FFA03F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0888817-418A-4ABD-B2B0-22D09D4388F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0888817-418A-4ABD-B2B0-22D09D4388F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0888817-418A-4ABD-B2B0-22D09D4388F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0888817-418A-4ABD-B2B0-22D09D4388F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+<!ELEMENT lessons (lesson+)>
+<!ELEMENT lesson (Name, StartDate, EndDate, Teacher, TeacherPosition)> 
+<!ELEMENT Name (#PCDATA)> 
+<!ELEMENT StartDate (#PCDATA)> 
+<!ELEMENT EndDate (#PCDATA)> 
+<!ELEMENT Teacher (#PCDATA)> 
+<!ELEMENT TeacherPosition (#PCDATA)>

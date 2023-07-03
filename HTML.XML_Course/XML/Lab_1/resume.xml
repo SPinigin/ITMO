@@ -1,0 +1,47 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<resume>
+	<candidate id = "a">
+		<Name>Сергей</Name>
+		<Surname>Пинигин</Surname>
+		<PatronymicName>Николаевич</PatronymicName>
+		<Age>34</Age>
+		<WorkPlace>ООО "РН-Уватнефтегаз"</WorkPlace>
+		<Position>ведущий геолог</Position>
+		<DateOfBirth>02.09.1988</DateOfBirth>
+		<Education>Высшее</Education>
+		<Address>Тюмень, ул.50 лет Октября, 57Б к.1</Address>
+		<Phone>+79121234567</Phone>
+		<FamilyStatus>холост</FamilyStatus>
+		<DesiredSalary currency = "RUR">150 000</DesiredSalary>
+	</candidate>
+	
+	<candidate id = "b">
+		<Name>Иван</Name>
+		<Surname>Сидоренко</Surname>
+		<PatronymicName>Иванович</PatronymicName>
+		<Age>33</Age>
+		<WorkPlace>ООО "РусьСвет"</WorkPlace>
+		<Position>экономист</Position>
+		<DateOfBirth>02.03.1968</DateOfBirth>
+		<Education>Высшее </Education>
+		<Address>СПб, Серпуховская 13-9</Address>
+		<Phone>987-65-54</Phone>
+		<FamilyStatus>женат</FamilyStatus>
+		<DesiredSalary currency = "RUR">50 000</DesiredSalary>
+	</candidate>
+	
+	<candidate id = "c">
+		<Name>Ольга</Name>
+		<Surname>Гашекова</LastName>
+		<PatronymicName>Сергеевна</PatronymicName>
+		<Age>25</Age>	
+		<WorkPlace>ООО "Строй"</WorkPlace>
+		<Position>менеджер по продажам</Position>
+		<DateOfBirth>19.12.1976</DateOfBirth>
+		<Education>Среднее</Education>
+		<Address>СПб, Дбуновская 12-4</Address>
+		<Phone>122-33-44</Phone>
+		<FamilyStatus>не замужем</FamilyStatus>
+		<DesiredSalary currency = "RUR">35 000</DesiredSalary>
+	</candidate>
+</resume>

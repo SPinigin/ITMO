@@ -1,0 +1,26 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<lessons>
+	<lesson id = "CS">
+		<Name>Программирование на С#</Name>
+		<StartDate>13.04.2023</StartDate>
+		<EndDate>4.05.2023</EndDate>
+		<Teacher>Осипов Н.А.</Teacher>
+		<TeacherPosition>доцент</TeacherPosition>
+	</lesson>
+	
+	<lesson id = "JAVA">
+		<Name>Программирование на Java</Name>
+		<StartDate>12.10.2023</StartDate>
+		<EndDate>14.11.2023</EndDate>
+		<Teacher>Харатян А.С.</Teacher>
+		<TeacherPosition>старший преподаватель</TeacherPosition>
+	</lesson>
+	
+	<lesson id = "Python">
+		<Name>Программирование на Python</Name>
+		<StartDate>16.11.2023</StartDate>
+		<EndDate>05.12.2023</EndDate>
+		<Teacher>Кузьмин К.М.</Teacher>
+		<TeacherPosition>старший преподаватель</TeacherPosition>
+	</lesson>
+</lessons>

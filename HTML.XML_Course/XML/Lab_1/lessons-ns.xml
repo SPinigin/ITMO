@@ -1,0 +1,26 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<myns:TimeTable xmlns:myns = "http://www.itmo.ru/xml/lessons">
+	<myns:lesson id = "CS">
+		<myns:Name>Программирование на С#</myns:Name>
+		<myns:StartDate>13.04.2023</myns:StartDate>
+		<myns:EndDate>4.05.2023</myns:EndDate>
+		<myns:Teacher>Осипов Н.А.</myns:Teacher>
+		<myns:TeacherPosition>доцент</myns:TeacherPosition>
+	</myns:lesson>
+	
+	<myns:lesson id = "JAVA">
+		<myns:Name>Программирование на Java</myns:Name>
+		<myns:StartDate>12.10.2023</myns:StartDate>
+		<myns:EndDate>14.11.2023</myns:EndDate>
+		<myns:Teacher>Харатян А.С.</myns:Teacher>
+		<myns:TeacherPosition>старший преподаватель</myns:TeacherPosition>
+	</myns:lesson>
+	
+	<myns:lesson id = "Python">
+		<myns:Name>Программирование на Python</myns:Name>
+		<myns:StartDate>16.11.2023</myns:StartDate>
+		<myns:EndDate>05.12.2023</myns:EndDate>
+		<myns:Teacher>Кузьмин К.М.</myns:Teacher>
+		<myns:TeacherPosition>старший преподаватель</myns:TeacherPosition>
+	</myns:lesson>
+</myns:TimeTable>

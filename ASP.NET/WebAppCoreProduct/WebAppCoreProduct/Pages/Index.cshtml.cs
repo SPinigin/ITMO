@@ -1,26 +1,16 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.Dynamic;
+using WebAppCoreProduct.Models;
 
 namespace WebAppCoreProduct.Pages
 {
     public class IndexModel : PageModel
     {
-        public string Name { get; set; }
-        public decimal? Price { get; set; }
-        public bool IsCorrect { get; set; } = true;
-
-        public void OnGet(string name, decimal? price)
+        public void OnGet()
         {
-            if (price == null || price < 0 || string.IsNullOrEmpty(Name))
-                    {
-                        IsCorrect = false;
-                        return;
-                    }
-                    Price = price;
-                    Name = name;
-        }
 
-        
+        }
     }
+
 }

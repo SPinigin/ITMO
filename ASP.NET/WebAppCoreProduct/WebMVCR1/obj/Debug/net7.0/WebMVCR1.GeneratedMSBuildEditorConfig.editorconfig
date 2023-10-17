@@ -1,0 +1,33 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebMVCR1
+build_property.RootNamespace = WebMVCR1
+build_property.ProjectDir = D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\ASP.NET\WebAppCoreProduct\WebMVCR1\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\1. Программирование\0. Инженер-программист ИТМО\00. GitRepo\ITMO\ASP.NET\WebAppCoreProduct\WebMVCR1
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/1. Программирование/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ASP.NET/WebAppCoreProduct/WebMVCR1/Views/Home/Hello.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIZWxsby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. Программирование/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ASP.NET/WebAppCoreProduct/WebMVCR1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. Программирование/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ASP.NET/WebAppCoreProduct/WebMVCR1/Views/Home/InputData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbnB1dERhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. Программирование/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ASP.NET/WebAppCoreProduct/WebMVCR1/Views/Home/ListPerson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0UGVyc29uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

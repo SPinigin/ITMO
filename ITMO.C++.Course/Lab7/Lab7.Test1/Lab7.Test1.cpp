@@ -14,12 +14,12 @@ struct Time
     }
 };
 
-Time PlusTime(const Time& t1, const Time& t2)
+Time SumTime(const Time& t1, const Time& t2)
 {
     Time t;
     t.hours = t1.hours + t2.hours;
     t.minutes = t1.minutes + t2.minutes;
-    if (t.minutes >=60)
+    if (t.minutes >= 60)
     {
         t.hours++;
         t.minutes %= 60;
@@ -32,7 +32,7 @@ Time PlusTime(const Time& t1, const Time& t2)
     }
     return t;
 }
-Time MinusTime(Time& t1, Time& t2)
+Time SubtrTime(Time& t1, Time& t2)
 {
     Time t;
     t.hours = t1.hours - t2.hours;
@@ -63,8 +63,8 @@ int main()
 {
     Time t1 = InputTime();
     Time t2 = InputTime();
-    Time t3 = PlusTime(t1, t2);
-    Time t4 = MinusTime(t1, t2);
+    Time t3 = SumTime(t1, t2);
+    Time t4 = SubtrTime(t1, t2);
     t3.ShowTime();
     t4.ShowTime();
 }

@@ -1,0 +1,107 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebPumpsApp
+build_property.RootNamespace = WebPumpsApp
+build_property.ProjectDir = D:\1. Develop\0. Инженер-программист ИТМО\00. GitRepo\ITMO\ITMO.ASP.NETCourse2023\ASP.NET MVC\WebPumpsApp\WebPumpsApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\1. Develop\0. Инженер-программист ИТМО\00. GitRepo\ITMO\ITMO.ASP.NETCourse2023\ASP.NET MVC\WebPumpsApp\WebPumpsApp
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/1. Develop/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ITMO.ASP.NETCourse2023/ASP.NET MVC/WebPumpsApp/WebPumpsApp/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. Develop/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ITMO.ASP.NETCourse2023/ASP.NET MVC/WebPumpsApp/WebPumpsApp/Views/Bids/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlkc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. Develop/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ITMO.ASP.NETCourse2023/ASP.NET MVC/WebPumpsApp/WebPumpsApp/Views/Bids/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlkc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. Develop/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ITMO.ASP.NETCourse2023/ASP.NET MVC/WebPumpsApp/WebPumpsApp/Views/Bids/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlkc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. Develop/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ITMO.ASP.NETCourse2023/ASP.NET MVC/WebPumpsApp/WebPumpsApp/Views/Bids/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlkc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. Develop/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ITMO.ASP.NETCourse2023/ASP.NET MVC/WebPumpsApp/WebPumpsApp/Views/Bids/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlkc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. Develop/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ITMO.ASP.NETCourse2023/ASP.NET MVC/WebPumpsApp/WebPumpsApp/Views/Home/AllPumps.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBbGxQdW1wcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. Develop/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ITMO.ASP.NETCourse2023/ASP.NET MVC/WebPumpsApp/WebPumpsApp/Views/Home/CreateBid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVCaWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. Develop/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ITMO.ASP.NETCourse2023/ASP.NET MVC/WebPumpsApp/WebPumpsApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. Develop/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ITMO.ASP.NETCourse2023/ASP.NET MVC/WebPumpsApp/WebPumpsApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. Develop/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ITMO.ASP.NETCourse2023/ASP.NET MVC/WebPumpsApp/WebPumpsApp/Views/Home/PumpSearch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQdW1wU2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. Develop/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ITMO.ASP.NETCourse2023/ASP.NET MVC/WebPumpsApp/WebPumpsApp/Views/Pumps/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVtcHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. Develop/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ITMO.ASP.NETCourse2023/ASP.NET MVC/WebPumpsApp/WebPumpsApp/Views/Pumps/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVtcHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. Develop/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ITMO.ASP.NETCourse2023/ASP.NET MVC/WebPumpsApp/WebPumpsApp/Views/Pumps/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVtcHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. Develop/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ITMO.ASP.NETCourse2023/ASP.NET MVC/WebPumpsApp/WebPumpsApp/Views/Pumps/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVtcHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. Develop/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ITMO.ASP.NETCourse2023/ASP.NET MVC/WebPumpsApp/WebPumpsApp/Views/Pumps/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVtcHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. Develop/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ITMO.ASP.NETCourse2023/ASP.NET MVC/WebPumpsApp/WebPumpsApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. Develop/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ITMO.ASP.NETCourse2023/ASP.NET MVC/WebPumpsApp/WebPumpsApp/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. Develop/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ITMO.ASP.NETCourse2023/ASP.NET MVC/WebPumpsApp/WebPumpsApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. Develop/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ITMO.ASP.NETCourse2023/ASP.NET MVC/WebPumpsApp/WebPumpsApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. Develop/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ITMO.ASP.NETCourse2023/ASP.NET MVC/WebPumpsApp/WebPumpsApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/1. Develop/0. Инженер-программист ИТМО/00. GitRepo/ITMO/ITMO.ASP.NETCourse2023/ASP.NET MVC/WebPumpsApp/WebPumpsApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-95p06p3otp
